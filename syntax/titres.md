@@ -1,7 +1,7 @@
 # Titles
-Quand nous commencçons à écrire un document markdown, nous avons besoin d'ajouter un titre et des sous-titres.
+Quand on commence à écrire un document markdown, on a besoin d'ajouter un titre et des sous-titres.
 
-Markdown a deux types de titres, Setext and atx.
+Markdown a deux types de titres: Setext and atx.
 
 Les titres Setext-style sont soulignés en utilisant le signe "égal" (pour les titres les plus importants) and tirets (pour les titres de second niveau). 
 
